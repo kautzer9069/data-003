@@ -1,0 +1,8 @@
+version: 1.4.0
+files:
+  - url: Another-Redis-Desktop-Manager.1.4.0.exe
+    sha512: q9teVzTHUSHrar4UqIFKjR/+xP5RktqKO+SPchBIMoy3lxbrn4VKjmow9Sa0rTZGcDyvhLeQKIgPsl2fCGndgg==
+    size: 50886388
+path: Another-Redis-Desktop-Manager.1.4.0.exe
+sha512: q9teVzTHUSHrar4UqIFKjR/+xP5RktqKO+SPchBIMoy3lxbrn4VKjmow9Sa0rTZGcDyvhLeQKIgPsl2fCGndgg==
+releaseDate: '2020-12-30T07:38:55.554Z'
