@@ -1,0 +1,8 @@
+version: 1.5.2
+files:
+  - url: Another-Redis-Desktop-Manager.1.5.2.exe
+    sha512: WIxf6ChHXWil4lpA7Ob/uIEssIFgKkRQstHqefamtCmQUW3k/tTavdqDEP3BCkLhEQ4UOd6mDCh/ZjGXaRsXig==
+    size: 58038833
+path: Another-Redis-Desktop-Manager.1.5.2.exe
+sha512: WIxf6ChHXWil4lpA7Ob/uIEssIFgKkRQstHqefamtCmQUW3k/tTavdqDEP3BCkLhEQ4UOd6mDCh/ZjGXaRsXig==
+releaseDate: '2022-02-02T08:07:39.936Z'
