@@ -1,0 +1,8 @@
+version: 1.4.8
+files:
+  - url: Another-Redis-Desktop-Manager.1.4.8.exe
+    sha512: DI7Gg4wBr+ixcB6CAJ+FWlx4OHCI050l4acOLSyT+oBWvBZA1h5HBg+MW5OAxlPLKP1WNJkEkhISScgf9FKscA==
+    size: 56916889
+path: Another-Redis-Desktop-Manager.1.4.8.exe
+sha512: DI7Gg4wBr+ixcB6CAJ+FWlx4OHCI050l4acOLSyT+oBWvBZA1h5HBg+MW5OAxlPLKP1WNJkEkhISScgf9FKscA==
+releaseDate: '2021-07-02T12:00:12.337Z'
